@@ -1,0 +1,32 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-std=c++98",
+      "-I",
+      "include",
+      "-c",
+      "-o",
+      "src/main.o",
+      "src/main.cpp"
+    ],
+    "directory": "/home/pbeylouni@csclab.net/Documents/Piscine-Object/Piscine-Object/Module00/ex",
+    "file": "/home/pbeylouni@csclab.net/Documents/Piscine-Object/Piscine-Object/Module00/ex/src/main.cpp",
+    "output": "/home/pbeylouni@csclab.net/Documents/Piscine-Object/Piscine-Object/Module00/ex/src/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-std=c++98",
+      "-I",
+      "include",
+      "-c",
+      "-o",
+      "src/Bank.o",
+      "src/Bank.cpp"
+    ],
+    "directory": "/home/pbeylouni@csclab.net/Documents/Piscine-Object/Piscine-Object/Module00/ex",
+    "file": "/home/pbeylouni@csclab.net/Documents/Piscine-Object/Piscine-Object/Module00/ex/src/Bank.cpp",
+    "output": "/home/pbeylouni@csclab.net/Documents/Piscine-Object/Piscine-Object/Module00/ex/src/Bank.o"
+  }
+]
