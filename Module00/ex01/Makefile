@@ -1,4 +1,4 @@
-NAME=BANK
+NAME=GRAPH
 
 CXX=c++
 
@@ -7,7 +7,8 @@ STD=-std=c++98
 FLAGS= -Wall -Werror -Wextra
 
 SRC= src/main.cpp \
-     src/Bank.cpp
+     src/Graph.cpp \
+     src/Vector2.cpp
 
 INCLUDES= -I include
 

@@ -1,0 +1,47 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-std=c++98",
+      "-I",
+      "include",
+      "-c",
+      "-o",
+      "src/main.o",
+      "src/main.cpp"
+    ],
+    "directory": "/home/pierre/Documents/Piscine-Object/Module00/ex01",
+    "file": "/home/pierre/Documents/Piscine-Object/Module00/ex01/src/main.cpp",
+    "output": "/home/pierre/Documents/Piscine-Object/Module00/ex01/src/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-std=c++98",
+      "-I",
+      "include",
+      "-c",
+      "-o",
+      "src/Graph.o",
+      "src/Graph.cpp"
+    ],
+    "directory": "/home/pierre/Documents/Piscine-Object/Module00/ex01",
+    "file": "/home/pierre/Documents/Piscine-Object/Module00/ex01/src/Graph.cpp",
+    "output": "/home/pierre/Documents/Piscine-Object/Module00/ex01/src/Graph.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-std=c++98",
+      "-I",
+      "include",
+      "-c",
+      "-o",
+      "src/Vector2.o",
+      "src/Vector2.cpp"
+    ],
+    "directory": "/home/pierre/Documents/Piscine-Object/Module00/ex01",
+    "file": "/home/pierre/Documents/Piscine-Object/Module00/ex01/src/Vector2.cpp",
+    "output": "/home/pierre/Documents/Piscine-Object/Module00/ex01/src/Vector2.o"
+  }
+]
