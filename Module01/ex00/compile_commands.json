@@ -1,0 +1,77 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-std=c++98",
+      "-I",
+      "include",
+      "-c",
+      "-o",
+      "src/main.o",
+      "src/main.cpp"
+    ],
+    "directory": "/home/pbeylouni@csclab.net/Documents/Piscine-Object/Piscine-Object/Module01",
+    "file": "/home/pbeylouni@csclab.net/Documents/Piscine-Object/Piscine-Object/Module01/src/main.cpp",
+    "output": "/home/pbeylouni@csclab.net/Documents/Piscine-Object/Piscine-Object/Module01/src/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-std=c++98",
+      "-I",
+      "include",
+      "-c",
+      "-o",
+      "src/Hammer.o",
+      "src/Hammer.cpp"
+    ],
+    "directory": "/home/pbeylouni@csclab.net/Documents/Piscine-Object/Piscine-Object/Module01",
+    "file": "/home/pbeylouni@csclab.net/Documents/Piscine-Object/Piscine-Object/Module01/src/Hammer.cpp",
+    "output": "/home/pbeylouni@csclab.net/Documents/Piscine-Object/Piscine-Object/Module01/src/Hammer.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-std=c++98",
+      "-I",
+      "include",
+      "-c",
+      "-o",
+      "src/Shovel.o",
+      "src/Shovel.cpp"
+    ],
+    "directory": "/home/pbeylouni@csclab.net/Documents/Piscine-Object/Piscine-Object/Module01",
+    "file": "/home/pbeylouni@csclab.net/Documents/Piscine-Object/Piscine-Object/Module01/src/Shovel.cpp",
+    "output": "/home/pbeylouni@csclab.net/Documents/Piscine-Object/Piscine-Object/Module01/src/Shovel.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-std=c++98",
+      "-I",
+      "include",
+      "-c",
+      "-o",
+      "src/Tool.o",
+      "src/Tool.cpp"
+    ],
+    "directory": "/home/pbeylouni@csclab.net/Documents/Piscine-Object/Piscine-Object/Module01",
+    "file": "/home/pbeylouni@csclab.net/Documents/Piscine-Object/Piscine-Object/Module01/src/Tool.cpp",
+    "output": "/home/pbeylouni@csclab.net/Documents/Piscine-Object/Piscine-Object/Module01/src/Tool.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-std=c++98",
+      "-I",
+      "include",
+      "-c",
+      "-o",
+      "src/Worker.o",
+      "src/Worker.cpp"
+    ],
+    "directory": "/home/pbeylouni@csclab.net/Documents/Piscine-Object/Piscine-Object/Module01",
+    "file": "/home/pbeylouni@csclab.net/Documents/Piscine-Object/Piscine-Object/Module01/src/Worker.cpp",
+    "output": "/home/pbeylouni@csclab.net/Documents/Piscine-Object/Piscine-Object/Module01/src/Worker.o"
+  }
+]
